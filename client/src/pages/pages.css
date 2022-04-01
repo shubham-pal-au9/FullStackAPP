@@ -1,0 +1,124 @@
+/* Login */
+
+.mainAlign{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+    padding: 20px 20px 50px 20px;
+    margin-right: 450px;
+    margin-left: 450px;
+}
+
+.inputLogin {
+    width: 346px;
+    height: 35px;
+    border: 2px solid rgba(0, 0, 255, 0.379);
+    border-radius: 5px;
+}
+
+.inputLogin:hover {
+    width: 346px;
+    height: 35px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+
+.passwordLogin{
+    width: 346px;
+    height: 35px;
+    border: 2px solid rgba(0, 0, 255, 0.379);
+    border-radius: 5px;
+}
+
+.passwordLogin:hover{
+    width: 346px;
+    height: 35px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+
+.loginEmail{
+    margin-bottom: 10px;
+}
+
+.submitLogin{
+    width: 80px;
+    height: 40px;
+    border: 2px solid rgba(69, 120, 27, 0.379);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submitLogin:hover{
+    width: 80px;
+    height: 40px;
+    border: 2px solid rgb(69, 120, 27);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.loginPassword{
+    margin-bottom: 10px;
+}
+
+.loginBtns{
+    display: flex;
+    justify-content: center;
+}
+
+.loginRegister{
+    width: 80px;
+    height: 40px;
+    border: 2px solid rgba(69, 120, 27, 0.379);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.loginRegister:hover{
+    width: 80px;
+    height: 40px;
+    border: 2px solid rgb(69, 120, 27);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.loginBtn {
+    margin-top: 2px;
+}
+
+.loginbbttn {
+    margin-left: 12px;
+}
+
+.mainAlignLogin{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+    border: 2px salmon blue;
+    border-radius: 5px;
+    padding: 80px 30px 100px 30px;
+    margin-right: 450px;
+    margin-left: 450px;
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.mainAlignRegister{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+    border: 2px salmon blue;
+    border-radius: 5px;
+    padding: 80px 30px 100px 30px;
+    margin-right: 450px;
+    margin-left: 450px;
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.registerbtn{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
